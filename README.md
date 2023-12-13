@@ -22,7 +22,7 @@
 
 ### 상세
 <https://github.com/leedong617/First-Project/tree/master/> github주소<br>
-<https://github.com/leedong617/ITWILL_Project/files/13415275/1.pptx/> ppt상세<br>
+[교양문고.pptx](https://github.com/leedong617/leedong617/files/13663001/default.pptx) ppt상세<br>
 메인<br>
 <img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5"><br>
 상품리스트<br>
@@ -59,6 +59,8 @@ ERD<br>
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/eclipse ee-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> 
 <img src="https://img.shields.io/badge/gradle 8.3-02303A?style=for-the-badge&logo=gradle&logoColor=white"소<br>
+
+### 상세
 <https://github.com/leedong617/ITWILL_Project/files/13415268/_._._.pptx/> ppt상세
 </details>
 
