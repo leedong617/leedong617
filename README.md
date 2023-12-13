@@ -107,18 +107,7 @@ ERD<br>
 ### 상세
 [어벤져스_발표자료.pdf](https://github.com/leedong617/leedong617/files/13663640/_.pdf)<br>
 <https://github.com/leedong617/FinalProject/> github주소<br>
-<img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5">
-<img width="278" alt="리스트" src="https://github.com/leedong617/leedong617/assets/133841274/49583be5-45fb-42a0-8138-9f75c2a4d2ad">
-<img width="275" alt="디테일" src="https://github.com/leedong617/leedong617/assets/133841274/cb11b4c7-cf04-4697-9ced-ebb477dcffd3">
-<img width="360" alt="검색" src="https://github.com/leedong617/leedong617/assets/133841274/c6cb7564-a4d0-4b75-9a93-c099dbffc580">
-<img width="485" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/a5798bfe-9967-496d-bd7c-c43dd744577b"><br>
----------------------<br>
-<img width="836" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/d3de73cf-4cf3-444f-b3fe-6265fed916c0">
-![장바구니 버튼](https://github.com/leedong617/leedong617/assets/133841274/0cb402d8-bf63-4222-8351-6c38bba00b59)
-![장바구니](https://github.com/leedong617/leedong617/assets/133841274/34442842-2816-4cbe-b93e-2766338a27b1)
-![주문](https://github.com/leedong617/leedong617/assets/133841274/031b23ec-f65d-471b-8175-0c350a6d95c8)
-![주문 목록](https://github.com/leedong617/leedong617/assets/133841274/22f32f46-375c-434a-a693-d42fdbbe9caa)<br>
----------------------<br>
+
 <img width="806" alt="스크린샷 2023-12-14 011918" src="https://github.com/leedong617/leedong617/assets/133841274/903d3a9d-b111-4f32-881e-d17f18e55146">
 <img width="671" alt="스크린샷 2023-12-14 011833" src="https://github.com/leedong617/leedong617/assets/133841274/72517656-e00e-449d-9fb5-3a142f06a99a">
 ![로그인](https://github.com/leedong617/leedong617/assets/133841274/a0d16215-ea3f-4a73-9a84-3c563f98efa9)
