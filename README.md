@@ -1,4 +1,4 @@
-# 01.First_Project (교양문고)
+# 01.First_Project(JAVA SWING, JDBC, Oracle) (교양문고)
 <details>
   
 ### 프로젝트 소개
@@ -24,7 +24,7 @@
 <https://github.com/leedong617/ITWILL_Project/files/13415275/1.pptx/>
 </details>
 
-# 02.Second_Project (마이프로틴)
+# 02.Second_Project(JAVA, JSP, MyBatis, Oracle) (마이프로틴)
 <details>
 
 ### 프로젝트 소개
@@ -54,7 +54,7 @@
 <https://github.com/leedong617/ITWILL_Project/files/13415268/_._._.pptx/>
 </details>
 
-# 03.Final_Project (다나가)
+# 03.Final_Project(JAVA, JPA, Oracle) (다나가)
 <details>
   
 ### 프로젝트 소개
