@@ -23,6 +23,7 @@
 ### 상세
 <https://github.com/leedong617/First-Project/tree/master/> github주소<br>
 [교양문고.pptx](https://github.com/leedong617/leedong617/files/13663001/default.pptx) ppt상세<br>
+<br>
 메인<br>
 <img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5"><br>
 상품리스트<br>
@@ -63,6 +64,7 @@ ERD<br>
 ### 상세
 [헬린이들.pptx](https://github.com/leedong617/leedong617/files/13663009/default.pptx) ppt상세<br>
 <https://github.com/leedong617/Second-Project/> github주소<br>
+<br>
 ERD<br>
 <img width="836" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/d3de73cf-4cf3-444f-b3fe-6265fed916c0"><br>
 상품<br>
@@ -107,6 +109,7 @@ ERD<br>
 ### 상세
 [어벤져스_발표자료.pdf](https://github.com/leedong617/leedong617/files/13663640/_.pdf)<br>
 <https://github.com/leedong617/FinalProject/> github주소<br>
+<br>
 ERD<br>
 <img width="806" alt="스크린샷 2023-12-14 011918" src="https://github.com/leedong617/leedong617/assets/133841274/903d3a9d-b111-4f32-881e-d17f18e55146"><br>
 <img width="671" alt="스크린샷 2023-12-14 011833" src="https://github.com/leedong617/leedong617/assets/133841274/72517656-e00e-449d-9fb5-3a142f06a99a"><br>
