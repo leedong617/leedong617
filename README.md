@@ -105,18 +105,32 @@ ERD<br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 
 ### 상세
-
-![home](https://github.com/leedong617/ITWILL_Project/assets/133841274/9fc8685a-5683-4c50-ab3f-1ce341dfeaed)
-
-![login](https://github.com/leedong617/ITWILL_Project/assets/133841274/53ad695f-94fe-4264-844b-f54b23fc6fbe)
-
-![join](https://github.com/leedong617/ITWILL_Project/assets/133841274/a34d4dee-f6b8-4b5f-a084-9a13f2d51420)
-
-![quit](https://github.com/leedong617/ITWILL_Project/assets/133841274/855c3ade-ab1d-48b8-9917-0f4b9fc50c64)
-
-![modify](https://github.com/leedong617/ITWILL_Project/assets/133841274/869c998c-237d-4ef2-bc86-4ae76e1975f2)
-
-![find_id_pass](https://github.com/leedong617/ITWILL_Project/assets/133841274/70bd473f-12f5-4b94-8dee-a4ea7df8c839)
+[어벤져스_발표자료.pdf](https://github.com/leedong617/leedong617/files/13663640/_.pdf)<br>
+<https://github.com/leedong617/FinalProject/> github주소<br>
+<img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5">
+<img width="278" alt="리스트" src="https://github.com/leedong617/leedong617/assets/133841274/49583be5-45fb-42a0-8138-9f75c2a4d2ad">
+<img width="275" alt="디테일" src="https://github.com/leedong617/leedong617/assets/133841274/cb11b4c7-cf04-4697-9ced-ebb477dcffd3">
+<img width="360" alt="검색" src="https://github.com/leedong617/leedong617/assets/133841274/c6cb7564-a4d0-4b75-9a93-c099dbffc580">
+<img width="485" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/a5798bfe-9967-496d-bd7c-c43dd744577b"><br>
+---------------------<br>
+<img width="836" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/d3de73cf-4cf3-444f-b3fe-6265fed916c0">
+![장바구니 버튼](https://github.com/leedong617/leedong617/assets/133841274/0cb402d8-bf63-4222-8351-6c38bba00b59)
+![장바구니](https://github.com/leedong617/leedong617/assets/133841274/34442842-2816-4cbe-b93e-2766338a27b1)
+![주문](https://github.com/leedong617/leedong617/assets/133841274/031b23ec-f65d-471b-8175-0c350a6d95c8)
+![주문 목록](https://github.com/leedong617/leedong617/assets/133841274/22f32f46-375c-434a-a693-d42fdbbe9caa)<br>
+---------------------<br>
+<img width="806" alt="스크린샷 2023-12-14 011918" src="https://github.com/leedong617/leedong617/assets/133841274/903d3a9d-b111-4f32-881e-d17f18e55146">
+<img width="671" alt="스크린샷 2023-12-14 011833" src="https://github.com/leedong617/leedong617/assets/133841274/72517656-e00e-449d-9fb5-3a142f06a99a">
+![로그인](https://github.com/leedong617/leedong617/assets/133841274/a0d16215-ea3f-4a73-9a84-3c563f98efa9)
+![카카오로그인](https://github.com/leedong617/leedong617/assets/133841274/aecf4977-9630-45af-a797-d44f3d064843)
+![카카오로그인2](https://github.com/leedong617/leedong617/assets/133841274/0e23f33b-5c99-4cd7-b5f8-17c48aee866c)
+![카카오로그인3](https://github.com/leedong617/leedong617/assets/133841274/1c48966c-e636-4a74-847f-f13f92ca3565)
+![회원가입](https://github.com/leedong617/leedong617/assets/133841274/42dfb74b-3fd6-4af5-8852-16596bf04254)
+![회원가입완료](https://github.com/leedong617/leedong617/assets/133841274/ab121615-26d3-4264-9b10-7a0fcfe30a4d)
+![마이페이지](https://github.com/leedong617/leedong617/assets/133841274/157cd114-84f3-4e0a-b024-56c58321c6e1)
+![수정](https://github.com/leedong617/leedong617/assets/133841274/bb8dbcca-f8e4-4e1f-9198-56a37bcc8efa)
+![찾기](https://github.com/leedong617/leedong617/assets/133841274/a3e9f115-fb59-4f97-bc2c-1aa01818efea)
+![탈퇴](https://github.com/leedong617/leedong617/assets/133841274/bed2d3c4-f4c3-4622-b537-5b18de485a07)<br>
 
 
 </details>
