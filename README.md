@@ -61,7 +61,9 @@ ERD<br>
 <img src="https://img.shields.io/badge/gradle 8.3-02303A?style=for-the-badge&logo=gradle&logoColor=white"소<br>
 
 ### 상세
-<https://github.com/leedong617/ITWILL_Project/files/13415268/_._._.pptx/> ppt상세
+[헬린이들.pptx](https://github.com/leedong617/leedong617/files/13663009/default.pptx) ppt상세<br>
+<https://github.com/leedong617/Second-Project/> github주소<br>
+
 </details>
 
 # 03.Final_Project (JAVA, JPA, Oracle) (다나가)
