@@ -64,6 +64,12 @@ ERD<br>
 [헬린이들.pptx](https://github.com/leedong617/leedong617/files/13663009/default.pptx) ppt상세<br>
 <https://github.com/leedong617/Second-Project/> github주소<br>
 
+<img width="836" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/d3de73cf-4cf3-444f-b3fe-6265fed916c0">
+![장바구니 버튼](https://github.com/leedong617/leedong617/assets/133841274/0cb402d8-bf63-4222-8351-6c38bba00b59)
+![장바구니](https://github.com/leedong617/leedong617/assets/133841274/34442842-2816-4cbe-b93e-2766338a27b1)
+![주문](https://github.com/leedong617/leedong617/assets/133841274/031b23ec-f65d-471b-8175-0c350a6d95c8)
+![주문 목록](https://github.com/leedong617/leedong617/assets/133841274/22f32f46-375c-434a-a693-d42fdbbe9caa)<br>
+
 </details>
 
 # 03.Final_Project (JAVA, JPA, Oracle) (다나가)
