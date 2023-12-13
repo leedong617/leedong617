@@ -21,7 +21,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 상세
-<https://github.com/leedong617/ITWILL_Project/files/13415275/1.pptx/>
+<https://github.com/leedong617/First-Project/tree/master/> github주소
+<https://github.com/leedong617/ITWILL_Project/files/13415275/1.pptx/> ppt상세
 </details>
 
 # 02.Second_Project (JAVA, JSP, MyBatis, Oracle) (마이프로틴)
