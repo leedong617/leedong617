@@ -22,7 +22,7 @@
 
 ### 상세
 <https://github.com/leedong617/First-Project/tree/master/> github주소<br>
-<https://github.com/leedong617/ITWILL_Project/files/13415275/1.pptx/> ppt상세
+<https://github.com/leedong617/ITWILL_Project/files/13415275/1.pptx/> ppt상세<br>
 <img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5">
 <img width="278" alt="리스트" src="https://github.com/leedong617/leedong617/assets/133841274/49583be5-45fb-42a0-8138-9f75c2a4d2ad">
 <img width="275" alt="디테일" src="https://github.com/leedong617/leedong617/assets/133841274/cb11b4c7-cf04-4697-9ced-ebb477dcffd3">
