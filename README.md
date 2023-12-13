@@ -52,7 +52,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 상세
-<https://github.com/leedong617/ITWILL_Project/files/13415268/_._._.pptx/>
+<https://github.com/leedong617/Second-Project/tree/master/> github<br>
+<https://github.com/leedong617/ITWILL_Project/files/13415268/_._._.pptx/> ppt상세
 </details>
 
 # 03.Final_Project (JAVA, JPA, Oracle) (다나가)
