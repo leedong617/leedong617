@@ -91,7 +91,7 @@ ERD<br>
 ### 담당 파트
 | Member |
 |----------|
-| 회원가입</br> 로그인</br> 카카오api</br>(로그인,주소)</br> 아이디 비밀번호 찾기</br> 이메일 인증</br> 회원정보 수정</br> 회원탈퇴 |
+| 회원API</br> 로그인</br> 카카오api</br>(로그인,주소)</br> 아이디 비밀번호 찾기</br> 이메일 인증</br> |
 
 ### 개발 환경
 <img src="https://img.shields.io/badge/Spring Boot 3.1.4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
