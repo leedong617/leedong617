@@ -116,7 +116,7 @@ ERD<br>
 
 ### 상세
 [어벤져스_발표자료.pdf](https://github.com/leedong617/leedong617/files/13663640/_.pdf)<br>
-<https://github.com/leedong617/FinalProject/> github주소
+<https://github.com/leedong617/FinalProject/> github주소<br>
 다나가 프로젝트 Docker EC2 RDS 배포 ( http://3.37.149.223:5000/index )
 <br>
 <br>
