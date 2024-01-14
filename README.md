@@ -108,7 +108,7 @@ ERD<br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=amazonrds&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/github-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 ### 상세
 [어벤져스_발표자료.pdf](https://github.com/leedong617/leedong617/files/13663640/_.pdf)<br>
