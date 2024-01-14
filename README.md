@@ -23,7 +23,9 @@
 
 ### 상세
 <https://github.com/leedong617/First-Project/tree/master/> github주소<br>
-[교양문고.pptx](https://github.com/leedong617/leedong617/files/13663001/default.pptx) ppt상세<br>
+[교양문고.pptx](https://github.com/leedong617/leedong617/files/13663001/default.pptx) ppt상세
+다나가 프로젝트 Docker EC2 RDS 배포 ( http://3.37.149.223:5000/index )
+<br>
 <br>
 메인<br>
 <img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5"><br>
