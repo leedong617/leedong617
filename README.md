@@ -13,7 +13,7 @@
 |----------|
 | 카테고리별 상품리스트</br> 검색기능</br> 상품 상세탭 |
 
-### 개발 환경
+### 개발 환경 및 기술 스택
 <img src="https://img.shields.io/badge/java 1.8-2C2255?style=for-the-badge&logo=openJDK&logoColor=white"> 
 <img src="https://img.shields.io/badge/jdbc-000000?style=for-the-badge&logo=amazondocumentdb&logoColor=white"> 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -51,7 +51,7 @@ ERD<br>
 |----------|
 | 바로구매 와 장바구니 버튼</br> 장바구니 리스트</br> 주문</br> 주문리스트 |
 
-### 개발 환경
+### 개발 환경 및 기술 스택
 <img src="https://img.shields.io/badge/java 1.8-2C2255?style=for-the-badge&logo=openJDK&logoColor=white"> 
 <img src="https://img.shields.io/badge/JSP-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> 
 <img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logo=amazondocumentdb&logoColor=white"> 
@@ -93,9 +93,11 @@ ERD<br>
 |----------|
 | 회원API</br> 로그인</br> 카카오(로그인,주소)</br> 아이디 비밀번호 찾기</br> 이메일 인증</br> |
 
+
 ### 개발 환경
+
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring Data JPA-2C2255?style=for-the-badge&logo=amazondocumentdb&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"> 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -103,12 +105,12 @@ ERD<br>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
 <img src="https://img.shields.io/badge/Bootstrap 4-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<br>
 
 ### 상세
 [어벤져스_발표자료.pdf](https://github.com/leedong617/leedong617/files/13663640/_.pdf)<br>
