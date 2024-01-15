@@ -120,6 +120,48 @@ ERD<br>
 <https://github.com/leedong617/FinalProject/> github주소<br>
 다나가 프로젝트 Docker EC2 RDS 배포 <http://3.37.149.223:5000/index>
 <br>
+❗주요기능
+	Rest API
+
+ 
+
+ 
+ 
+
+❗RestController를 사용하여 회원 Rest API를 구축 하였습니다.
+▶️ 구축한 Rest API를 사용하여 회원가입 버튼을 누를시 AJAX로 요청한 URI의 메소드를 실행하고 JSON 데이터를 반환합니다. 반환받은 JSON 데이터를 이용하여 Tooltip 메시지를 띄우거나 회원가입 완료 페이지로 이동합니다.
+
+	이메일 인증
+ 
+ 
+
+ 
+ 
+전역 변수 number선언 및 전역 메소드 createNumber() 생성
+createNumber()는 number에 랜덤으로 5자리의 int를 할당합니다.
+ 
+JoinCreateMail(String mail)
+	createNumber()를 호출해 number를 할당하고 메일의 ‘수신자’와 ‘제목’ ‘내용’을 설정 후 반환합니다.
+
+JoinSendMail(String mail)
+	JoinCreateMail(String mail)의 반환 받은 데이터를 발송하고 할당된 전역변수 number를 반환합니다. 
+ 
+
+이메일 인증 Rest API를 만들어 해당 URI로 요청이 들어오면 이메일 폼 데이터가 mail로 들어오고 해당 mail로 위 과정을 거치게 됩니다. 그 후 랜덤 숫자 5자리를 Stirng으로 변환 한 뒤 json 데이터로 반환합니다. 
+
+ 
+❗JavaMailSender API와 Google SMTP를 활용하여 이메일 인증 서비스를 구현하였습니다.
+
+
+
+
+
+	카카오 로그인
+ 
+❗Kakao에서 보낸 code로 인증 토큰을 생성하고 생성된 토큰을 사용하여 KakaoProfile을 가져옵니다.
+Email Column에는 Unique설정되어있으며 KakaoProfile에서 가져온 Email이 DB에 존재한다면 해당 Email을 가진 회원으로 로그인이 진행되며 
+존재하지 않는다면 MemberNotFoundException 발생하여 KakaoProfile을 사용하여 회원가입이 진행됩니다.
+
 <br>
 ERD<br>
 <img width="806" alt="스크린샷 2023-12-14 011918" src="https://github.com/leedong617/leedong617/assets/133841274/903d3a9d-b111-4f32-881e-d17f18e55146"><br>
