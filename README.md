@@ -15,7 +15,7 @@
 
 ## 🖥️ Projects
 
-# 01.First_Project (JAVA SWING, JDBC, Oracle) (교양문고)
+## 01.First_Project (JAVA SWING, JDBC, Oracle) (교양문고)
 <details>
   
 ### 프로젝트 소개
@@ -55,7 +55,7 @@ ERD<br>
 <img width="485" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/a5798bfe-9967-496d-bd7c-c43dd744577b"><br>
 </details>
 
-# 02.Second_Project (JAVA, JSP, MyBatis, Oracle) (마이프로틴)
+## 02.Second_Project (JAVA, JSP, MyBatis, Oracle) (마이프로틴)
 <details>
 
 ### 프로젝트 소개
@@ -97,7 +97,7 @@ ERD<br>
 
 </details>
 
-# 03.Final_Project (JAVA, JPA, Oracle) (다나가)
+## 03.Final_Project (JAVA, JPA, Oracle) (다나가)
 <details>
   
 ### <h2>⭐프로젝트 소개</h2>
