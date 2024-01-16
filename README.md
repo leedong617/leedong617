@@ -1,4 +1,6 @@
-<img width="150" alt="photo" src="https://github.com/leedong617/leedong617/assets/133841274/b2c86a2f-589e-4b49-9c1f-675fcc30d738">
+<img width="150" alt="photo" src="https://github.com/leedong617/leedong617/assets/133841274/b2c86a2f-589e-4b49-9c1f-675fcc30d738"> 안녕하세요 신입 백엔드 개발자 이동현 입니다. <br>
+📧Email : leedong617@gmail.com
+🧍‍♂️Age : 27
 
 ## 🪪 Stack
 
