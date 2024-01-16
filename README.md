@@ -3,8 +3,6 @@
 
 * JAVA
 * Spring Boot
-* JavaScript
-* JQuery
 * MyBatis
 * JPA
 * Oracle , MySQL
