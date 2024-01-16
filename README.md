@@ -1,3 +1,4 @@
+<img width="836" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/b2c86a2f-589e-4b49-9c1f-675fcc30d738">
 
 ## 🪪 Stack
 
