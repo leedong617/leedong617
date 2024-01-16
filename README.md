@@ -97,7 +97,7 @@ ERD<br>
 
 </details>
 
-## 03.Final_Project (JAVA, JPA, Oracle) (다나가)
+## 03.Final_Project (JAVA / Spring Boot, JPA) (다나가)
 <details>
   
 ### <h2>⭐프로젝트 소개</h2>
