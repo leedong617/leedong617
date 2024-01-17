@@ -1,5 +1,5 @@
 
-<img width="150" alt="photo" src="https://github.com/leedong617/leedong617/assets/133841274/b2c86a2f-589e-4b49-9c1f-675fcc30d738"><br> 안녕하세요 Java/SpringBoot 를 사용하여 백엔드를 중점으로 공부를 하고 있는 신입 개발자 <strong>이동현</strong> 입니다.<br> 요구사항을 빠르게 파악하고 알맞는 기술을 현명하게 사용하는 개발자가 되겠습니다.
+<img width="150" alt="photo" src="https://github.com/leedong617/leedong617/assets/133841274/b2c86a2f-589e-4b49-9c1f-675fcc30d738"><br> 안녕하세요 <strong>이동현</strong> 입니다. Java/SpringBoot 를 사용하여 백엔드를 중점으로 공부를 하고 있습니다<br> 알맞은 기술을 현명하게 사용하고 협업 능력과 문제해결 능력을 키워 인정받는 좋은 개발자로 성장하는 것이 목표입니다.
 
 📧Email : leedong617@gmail.com<br>
  🧍‍♂️  Age  : 27
