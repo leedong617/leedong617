@@ -12,7 +12,7 @@
 * JPA
 * Oracle , MySQL
 
-## 🗂️ Experience
+## 🗂️ Education
 
 * ITWILL JAVA 개발자 양성 과정 (23.05 ~ 23.11)
 
