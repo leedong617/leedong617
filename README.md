@@ -199,4 +199,3 @@ Kakao에서 보낸 code로 인증 토큰을 생성하고 생성된 토큰을 사
 <img width="500" alt="찾기" src="https://github.com/leedong617/leedong617/assets/133841274/b160eecc-5549-4926-960d-ed1ee9d9b06e"><br>
 탈퇴<br>
 <img width="500" alt="탈퇴 " src="https://github.com/leedong617/leedong617/assets/133841274/9cd22192-3917-439e-9ab9-c4ef8edbd1c0"><br>
-</details>
