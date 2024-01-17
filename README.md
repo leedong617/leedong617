@@ -1,7 +1,7 @@
 <img width="150" alt="photo" src="https://github.com/leedong617/leedong617/assets/133841274/b2c86a2f-589e-4b49-9c1f-675fcc30d738"><br>
 
 📧Email : leedong617@gmail.com<br>
-🧍‍♂️  Age  : 27
+ 🧍‍♂️  Age  : 27
 
 ## 🪪 Stack
 
