@@ -161,9 +161,9 @@ ERD<br>
 <h3>>> JoinCreateMail(String mail)<br><br>
 createNumber()를 호출해 number를 할당하고 메일의 ‘수신자’와 ‘제목’ ‘내용’을 설정 후 반환합니다.
 </h3>
-<h4>>> JoinSendMail(String mail)<br><br>
+<h3>>> JoinSendMail(String mail)<br><br>
 JoinCreateMail(String mail)의 반환 받은 데이터를 발송하고 할당된 전역변수 number를 반환합니다. 
-</h4>
+</h3>
 <img width="328" alt="메일컨트롤러" src="https://github.com/leedong617/leedong617/assets/133841274/77fd4eda-c19c-423e-af9f-70aa8deabb7d"><br>
 <h3>>> 이메일 인증 Rest API를 만들어 해당 URI로 요청이 들어오면 이메일 폼 데이터가 mail로 들어오고 해당 mail로 위 과정을 거치게 됩니다. 그 후 랜덤 숫자 5자리를 Stirng으로 변환 한 뒤 json 데이터로 반환합니다. </h3>
 <img width="266" alt="이메일인증ajax" src="https://github.com/leedong617/leedong617/assets/133841274/c22beff0-f23c-4156-9b3b-96eb6ecdf7e3"><br>
