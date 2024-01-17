@@ -1,5 +1,5 @@
 
-<img width="150" alt="photo" src="https://github.com/leedong617/leedong617/assets/133841274/b2c86a2f-589e-4b49-9c1f-675fcc30d738"><span>das </span>
+<img width="150" alt="photo" src="https://github.com/leedong617/leedong617/assets/133841274/b2c86a2f-589e-4b49-9c1f-675fcc30d738"><span>안녕하세요 Java/SpringBoot 를 사용하여 백엔드를 중점으로 공부를 하고 있는 신입 개발자 이동현 입니다. 요구사항을 빠르게 파악하고 알맞는 기술을 현명하게 사용하는 개발자가 되겠습니다.</span>
 
 📧Email : leedong617@gmail.com<br>
  🧍‍♂️  Age  : 27
