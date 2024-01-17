@@ -144,8 +144,8 @@ ERD<br>
 <h2>⭐주요 기능</h2>
 <img width="671" alt="스크린샷 2023-12-14 011833" src="https://github.com/leedong617/leedong617/assets/133841274/72517656-e00e-449d-9fb5-3a142f06a99a"><br>
 <h2>1️⃣ Rest API </h2>
-<img width="698" alt="rest api 코드" src="https://github.com/leedong617/leedong617/assets/133841274/209f9d11-2b0a-4b83-adc2-db52e2b70e98"><br>
-<img width="374" alt="ajax요청" src="https://github.com/leedong617/leedong617/assets/133841274/910a453c-7253-4f6c-9397-92b692a04f9f"><br>
+<img width="683" alt="rest api 코드" src="https://github.com/leedong617/leedong617/assets/133841274/4aaff533-b4df-41ca-ac4b-d5d1f8434fc2"><br>
+<img width="389" alt="ajax요청" src="https://github.com/leedong617/leedong617/assets/133841274/f80574bd-e37f-4131-ae12-76951a1bad4b"><br>
 <img width="239" alt="REST API설명 1" src="https://github.com/leedong617/leedong617/assets/133841274/b82d75e5-576a-415e-9f40-195712dfcbfb"><br>
 <h3>❗RestController를 사용하여 회원 Rest API를 구축 하였습니다.<br><br>
   >> 구축한 Rest API를 사용하여 회원가입 버튼을 누를시 AJAX로 요청한 URI의 메소드를 실행하고 JSON 데이터를 반환합니다. 반환받은 JSON 데이터를 이용하여 Tooltip 메시지를 띄우거나 회원가입 완료 페이지로 이동합니다.</h3>
