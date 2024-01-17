@@ -14,7 +14,7 @@
 
 ## 🗂️ Education
 
-* ITWILL JAVA 개발자 양성 과정 (23.05 ~ 23.11)
+* ITWILL JAVA 개발자 양성 과정 (23.05 ~ 23.11)(https://www.itwill.co.kr/cmn/eduCrseMain/1000000/all/CRSE_00000000000623eduCrseMainDetail.do)
 
 ## 🖥️ Projects
 
