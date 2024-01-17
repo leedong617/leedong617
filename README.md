@@ -1,5 +1,14 @@
 <img width="150" alt="photo" src="https://github.com/leedong617/leedong617/assets/133841274/b2c86a2f-589e-4b49-9c1f-675fcc30d738"><br>
 
+<div class=pull-left>
+https://github.com/leedong617/leedong617/assets/133841274/b2c86a2f-589e-4b49-9c1f-675fcc30d738
+
+</div>
+<div class=pull-right>
+안녕하세요~~스티미언 여러분!<br>오늘은 [마크다운]따라잡기 이미지와 문자정렬을 자유자재로 우측과 좌측 선택해서 할수있는 명령어를 익혀보겠습니다.
+참고 : 한칸띄우고 아래명령어를 입력합니다.
+</div>
+
 📧Email : leedong617@gmail.com<br>
  🧍‍♂️  Age  : 27
 
