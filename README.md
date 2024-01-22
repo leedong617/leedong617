@@ -6,17 +6,19 @@
 
 ## 🛠️ Stack
 
-<img width="150" alt="java" src="https://github.com/leedong617/leedong617/assets/133841274/171b7674-9a1a-427c-83be-88ef14c49d56">
-<img width="150" alt="springboot" src="https://github.com/leedong617/leedong617/assets/133841274/2ef99ede-6745-4fb4-ada8-d3e1b3154a02">
-<img width="150" alt="jpa" src="https://github.com/leedong617/leedong617/assets/133841274/f90d5886-be97-4819-918c-c27f13439e5a">
-<img width="150" alt="mybatis" src="https://github.com/leedong617/leedong617/assets/133841274/228057ee-23dc-46a6-acd1-1f23a823ac76">
-<img width="150" alt="oracle" src="https://github.com/leedong617/leedong617/assets/133841274/ac43691b-629c-42c7-bad2-16b999bf7ae4">
-<img width="150" alt="mysql" src="https://github.com/leedong617/leedong617/assets/133841274/f6e4da13-fade-4b3e-a4e0-0989a42afe1a"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JAVA  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring Boot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring Data JPA          MyBatis      Oracle        MySql <br>
-<img width="150" alt="aws ec2" src="https://github.com/leedong617/leedong617/assets/133841274/76e650f2-be1c-4de0-8b4c-64344eadbc3c">
-<img width="150" alt="aws rds" src="https://github.com/leedong617/leedong617/assets/133841274/bf586213-0d17-4138-899e-d08f68b0327c">
-<img width="150" alt="github actions" src="https://github.com/leedong617/leedong617/assets/133841274/8b17bc5f-0b63-4d56-806f-907b728ece01">
-<img width="150" alt="docker" src="https://github.com/leedong617/leedong617/assets/133841274/43502e3b-5508-4b52-be22-044905da8723">
+<img width="150" alt="java" src="https://github.com/leedong617/leedong617/assets/133841274/ee8f0e5d-037c-4a09-b6c6-aa73643a0e65">
+<img width="150" alt="spring boot" src="https://github.com/leedong617/leedong617/assets/133841274/735156f8-6542-4a4c-af21-bfbb180cb9a4">
+<img width="150" alt="jpa" src="https://github.com/leedong617/leedong617/assets/133841274/45be9961-c41c-42ce-8d4e-cf9b54f768e8">
+<img width="150" alt="mybatis" src="https://github.com/leedong617/leedong617/assets/133841274/9f05b1e6-b6a0-4da5-a3cb-a05d4ef76f1a">
+<img width="150" alt="mysql" src="https://github.com/leedong617/leedong617/assets/133841274/2755cb3d-ef4a-4078-9ac1-e8808892f377">
+<img width="150" alt="oracle" src="https://github.com/leedong617/leedong617/assets/133841274/099a8468-29dd-434e-b592-7b0b498faa19">
+<img width="150" alt="thymeleaf" src="https://github.com/leedong617/leedong617/assets/133841274/e63934bb-5649-4b83-8afd-8f3c795ca069">
+<img width="150" alt="javascript" src="https://github.com/leedong617/leedong617/assets/133841274/81074207-2b75-400c-a6f2-f6dcd78ebdd8">
+<img width="150" alt="jquery" src="https://github.com/leedong617/leedong617/assets/133841274/bf13c260-6ef8-466f-844f-08d7cde4119f">
+<img width="150" alt="ec2" src="https://github.com/leedong617/leedong617/assets/133841274/adf6f6c4-593b-48d6-9345-cd457bd52001">
+<img width="150" alt="rds" src="https://github.com/leedong617/leedong617/assets/133841274/17036876-8cf3-4640-9e4d-eb7019475fc4">
+<img width="150" alt="github actions" src="https://github.com/leedong617/leedong617/assets/133841274/b243b7f9-9452-42b1-b890-b612042074c8">
+<img width="150" alt="docker" src="https://github.com/leedong617/leedong617/assets/133841274/0fab1e0a-4066-4549-a573-0e837b04eac6">
 <br>
 <br>
 ## 🏫 Education
