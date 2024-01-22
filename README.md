@@ -6,19 +6,20 @@
 
 ## 🛠️ Stack
 
-<img width="150" alt="java" src="https://github.com/leedong617/leedong617/assets/133841274/ee8f0e5d-037c-4a09-b6c6-aa73643a0e65">
-<img width="150" alt="spring boot" src="https://github.com/leedong617/leedong617/assets/133841274/735156f8-6542-4a4c-af21-bfbb180cb9a4">
-<img width="150" alt="jpa" src="https://github.com/leedong617/leedong617/assets/133841274/45be9961-c41c-42ce-8d4e-cf9b54f768e8">
-<img width="150" alt="mybatis" src="https://github.com/leedong617/leedong617/assets/133841274/9f05b1e6-b6a0-4da5-a3cb-a05d4ef76f1a">
-<img width="150" alt="mysql" src="https://github.com/leedong617/leedong617/assets/133841274/2755cb3d-ef4a-4078-9ac1-e8808892f377">
-<img width="150" alt="oracle" src="https://github.com/leedong617/leedong617/assets/133841274/099a8468-29dd-434e-b592-7b0b498faa19">
-<img width="150" alt="thymeleaf" src="https://github.com/leedong617/leedong617/assets/133841274/e63934bb-5649-4b83-8afd-8f3c795ca069">
-<img width="150" alt="javascript" src="https://github.com/leedong617/leedong617/assets/133841274/81074207-2b75-400c-a6f2-f6dcd78ebdd8">
-<img width="150" alt="jquery" src="https://github.com/leedong617/leedong617/assets/133841274/bf13c260-6ef8-466f-844f-08d7cde4119f">
-<img width="150" alt="ec2" src="https://github.com/leedong617/leedong617/assets/133841274/adf6f6c4-593b-48d6-9345-cd457bd52001">
-<img width="150" alt="rds" src="https://github.com/leedong617/leedong617/assets/133841274/17036876-8cf3-4640-9e4d-eb7019475fc4">
-<img width="150" alt="github actions" src="https://github.com/leedong617/leedong617/assets/133841274/b243b7f9-9452-42b1-b890-b612042074c8">
-<img width="150" alt="docker" src="https://github.com/leedong617/leedong617/assets/133841274/0fab1e0a-4066-4549-a573-0e837b04eac6">
+<img width="150" alt="java-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/b4667de2-a887-41ba-a9ef-09bf47ca35b6">
+<img width="150" alt="spring_boot-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/5a7bef2d-d31c-417c-b9c5-074d76d52a2c">
+<img width="150" alt="jpa-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/e0d5717e-2d7c-467f-b650-b1ab67754ed3">
+<img width="150" alt="mybatis-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/3934ab98-d32b-4972-8297-1cde7f522c12">
+<img width="150" alt="thymeleaf-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/a48581e9-06b1-4c71-bcc6-fcf2f9863619">
+<img width="150" alt="javascript-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/924fa661-d4c9-401e-876a-3e6d04818191">
+<img width="150" alt="jquery-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/4404986b-022e-44fc-b53f-ed65f9666482">
+<img width="150" alt="oracle-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/5f6c244d-d7b1-4d1d-a639-edb4b88c1f87">
+<img width="150" alt="mysql-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/c957d8fb-1c74-4c85-b8cf-c8fc6efc04f9">
+<img width="150" alt="ec2-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/93a3c4a8-6388-472d-a9ee-f537e0fe78b7">
+<img width="150" alt="rds-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/90b330eb-a22d-4e4d-bf28-4f0ab9e91022">
+<img width="150" alt="github_actions-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/6eb6b9af-afdd-4e1e-91c7-7260ffa728c3">
+<img width="150" alt="docker-removebg-preview" src="https://github.com/leedong617/leedong617/assets/133841274/5b801ad8-7531-46a9-b8b3-9ac9fcafd11a">
+
 <br>
 <br>
 ## 🏫 Education
