@@ -4,7 +4,7 @@
 📧Email : leedong617@gmail.com<br>
  🧍‍♂️  Age&nbsp; : 27 (1998)
 
-## 🪪 Stack
+## 🛠️ Stack
 
 <img width="150" alt="java" src="https://github.com/leedong617/leedong617/assets/133841274/171b7674-9a1a-427c-83be-88ef14c49d56">
 <img width="150" alt="springboot" src="https://github.com/leedong617/leedong617/assets/133841274/2ef99ede-6745-4fb4-ada8-d3e1b3154a02">
@@ -18,7 +18,7 @@
 <img width="150" alt="docker" src="https://github.com/leedong617/leedong617/assets/133841274/43502e3b-5508-4b52-be22-044905da8723">
 <br>
 <br>
-## 🗂️ Education
+## 🏫 Education
 
 [* ITWILL JAVA 개발자 양성 과정 (23.05 ~ 23.11)](https://www.itwill.co.kr/cmn/eduCrseMain/1000000/all/CRSE_00000000000623eduCrseMainDetail.do)
 
