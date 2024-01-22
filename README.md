@@ -12,7 +12,7 @@
 <img width="150" alt="mybatis" src="https://github.com/leedong617/leedong617/assets/133841274/228057ee-23dc-46a6-acd1-1f23a823ac76">
 <img width="150" alt="oracle" src="https://github.com/leedong617/leedong617/assets/133841274/ac43691b-629c-42c7-bad2-16b999bf7ae4">
 <img width="150" alt="mysql" src="https://github.com/leedong617/leedong617/assets/133841274/f6e4da13-fade-4b3e-a4e0-0989a42afe1a"><br>
-JAVA  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Spring Boot         Spring Data JPA          MyBatis      Oracle        MySql <br>
+&nbsp;&nbsp;&nbsp;JAVA  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Spring Boot         Spring Data JPA          MyBatis      Oracle        MySql <br>
 <img width="150" alt="aws ec2" src="https://github.com/leedong617/leedong617/assets/133841274/76e650f2-be1c-4de0-8b4c-64344eadbc3c">
 <img width="150" alt="aws rds" src="https://github.com/leedong617/leedong617/assets/133841274/bf586213-0d17-4138-899e-d08f68b0327c">
 <img width="150" alt="github actions" src="https://github.com/leedong617/leedong617/assets/133841274/8b17bc5f-0b63-4d56-806f-907b728ece01">
