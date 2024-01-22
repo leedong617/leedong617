@@ -16,6 +16,7 @@
 <img width="150" alt="aws rds" src="https://github.com/leedong617/leedong617/assets/133841274/bf586213-0d17-4138-899e-d08f68b0327c">
 <img width="150" alt="github actions" src="https://github.com/leedong617/leedong617/assets/133841274/8b17bc5f-0b63-4d56-806f-907b728ece01">
 <img width="150" alt="docker" src="https://github.com/leedong617/leedong617/assets/133841274/43502e3b-5508-4b52-be22-044905da8723">
+<br>
 ## 🗂️ Education
 
 [* ITWILL JAVA 개발자 양성 과정 (23.05 ~ 23.11)](https://www.itwill.co.kr/cmn/eduCrseMain/1000000/all/CRSE_00000000000623eduCrseMainDetail.do)
