@@ -30,7 +30,7 @@
 ## 🖥️ Projects
 
 ## 01.First_Project (JAVA SWING, JDBC, Oracle) (교양문고)
-### <details>
+<details>
   
 ### 프로젝트 소개
 나날이 늘어가는 문화활동에 대한 수요에 맞추어 Java Swing으로 교양문고 어플리케이션을 출시하였습니다.<br>
@@ -70,7 +70,7 @@ ERD<br>
 </details>
 
 ## 02.Second_Project (JAVA, JSP, MyBatis, Oracle) (마이프로틴)
-### <details>
+<details>
 
 ### 프로젝트 소개
 헬스의 인기가 증가함에 따라 헬스 용품들의 수요가 증가하는 요즘을 위한 헬스용품 판매 사이트를 제작하였습니다.
@@ -109,7 +109,7 @@ ERD<br>
 주문목록<br>
 ![주문 목록](https://github.com/leedong617/leedong617/assets/133841274/22f32f46-375c-434a-a693-d42fdbbe9caa)<br>
 
-### </details>
+</details>
 
 ## 03.Final_Project (JAVA / Spring Boot, JPA) (다나가)
   
