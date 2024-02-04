@@ -109,7 +109,7 @@ ERD<br>
 주문목록<br>
 ![주문 목록](https://github.com/leedong617/leedong617/assets/133841274/22f32f46-375c-434a-a693-d42fdbbe9caa)<br>
 
-</details>
+### </details>
 
 ## 03.Final_Project (JAVA / Spring Boot, JPA) (다나가)
   
