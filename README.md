@@ -125,7 +125,7 @@ ERD<br>
 | 회원API</br> 로그인</br> 카카오(로그인,주소)</br> 아이디 비밀번호 찾기</br> 이메일 인증</br> |
 
 
-## ⭐개발 환경
+## ⭐개발 환경 및 스택
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
