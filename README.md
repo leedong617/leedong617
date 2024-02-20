@@ -3,7 +3,7 @@
 
 📧Email : leedong617@gmail.com<br>
  🧍‍♂️  Age&nbsp; : 27 (1998)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlehdgus617)](https://solved.ac/dlehdgus617/)
 ## 🛠️ Stack
 
 <img width="150" alt="java" src="https://github.com/leedong617/leedong617/assets/133841274/10f17cc0-2180-4d45-b7b2-d355bec69896">
