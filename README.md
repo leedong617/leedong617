@@ -46,7 +46,7 @@ Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 상세
-<https://github.com/leedong617/First-Project/tree/master/> github주소<br>
+<https://github.com/leedong617/First-Project/> github주소<br>
 [교양문고.pptx](https://github.com/leedong617/leedong617/files/13663001/default.pptx) ppt상세
 <br>
 <br>
