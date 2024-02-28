@@ -6,19 +6,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlehdgus617)](https://solved.ac/dlehdgus617/)
 ## 🛠️ Stack
 
-<img width="150" alt="java" src="https://github.com/leedong617/leedong617/assets/133841274/10f17cc0-2180-4d45-b7b2-d355bec69896">
-<img width="150" alt="spring boot" src="https://github.com/leedong617/leedong617/assets/133841274/6b556e5d-2511-4b37-b10c-c97685fa66b8">
-<img width="150" alt="jpa" src="https://github.com/leedong617/leedong617/assets/133841274/c7ce466e-091d-4412-90a6-72a6b1f14b47">
-<img width="150" alt="mybatis" src="https://github.com/leedong617/leedong617/assets/133841274/f74bd0b6-631c-467b-b0c6-a8a974b2d508">
-<img width="150" alt="thymeleaf" src="https://github.com/leedong617/leedong617/assets/133841274/49a6bd98-8b3a-48fc-a96a-0a6153f573dc">
-<img width="150" alt="oracle" src="https://github.com/leedong617/leedong617/assets/133841274/f30d3ef1-3d3b-4367-8d35-95e54b9b1184">
-<img width="150" alt="mysql" src="https://github.com/leedong617/leedong617/assets/133841274/a1bb7644-0cf5-4ef4-bff5-8ccea4ac3750">
-<img width="150" alt="javascript" src="https://github.com/leedong617/leedong617/assets/133841274/aa840784-0f0b-4ec8-abb8-92652a6f3d7c">
-<img width="150" alt="jquery" src="https://github.com/leedong617/leedong617/assets/133841274/ed12e216-54a7-4f2a-ab1e-456074ab50f6">
-<img width="150" alt="ec2" src="https://github.com/leedong617/leedong617/assets/133841274/8e0221b3-bb00-4119-aa98-ad97536665a4">
-<img width="150" alt="rds" src="https://github.com/leedong617/leedong617/assets/133841274/fc3c19fb-171e-4d16-b0f6-bcfaa136125b">
-<img width="150" alt="github actions" src="https://github.com/leedong617/leedong617/assets/133841274/99de7db9-f722-4079-8251-d55a73b8d7a1">
-<img width="150" alt="docker" src="https://github.com/leedong617/leedong617/assets/133841274/d0f2d7b9-f987-4cf1-ae98-02b6b09016cc">
+Programing Languages	| JAVA, JavaScript
+Framework / Library |	Spring Boot, JQuery, MyBatis ,Thymeleaf
+Server |	Apache Tomcat
+Tooling / DevOps |	GitHub Actions, Docker
+Environment |	AWS (EC2, RDS), Oracle, MySQL
+
 
 <br>
 <br>
