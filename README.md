@@ -6,11 +6,11 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlehdgus617)](https://solved.ac/dlehdgus617/)
 ## 🛠️ Stack
 
-# Programing Languages	| JAVA, JavaScript <br>
-# Framework / Library  |	Spring Boot, JQuery, MyBatis ,Thymeleaf <br>
-# Server               |	Apache Tomcat <br>
-# Tooling / DevOps     |	GitHub Actions, Docker <br>
-# Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
+### Programing Languages	| JAVA, JavaScript <br>
+### Framework / Library  |	Spring Boot, JQuery, MyBatis ,Thymeleaf <br>
+### Server               |	Apache Tomcat <br>
+### Tooling / DevOps     |	GitHub Actions, Docker <br>
+### Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 
 
 <br>
