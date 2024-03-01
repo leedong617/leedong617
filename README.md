@@ -152,9 +152,10 @@ OrderMapper(For MyBatis)<br>
 
 <h2>⭐구현 기능</h2>
 <img width="671" alt="스크린샷 2023-12-14 011833" src="https://github.com/leedong617/leedong617/assets/133841274/72517656-e00e-449d-9fb5-3a142f06a99a"><br>
-<details>
-<h2>1️⃣ 회원가입 , 수정 , 찾기 , 탈퇴 , 로그인</h2>
 
+<h2>1️⃣ 회원가입 , 수정 , 찾기 , 탈퇴 , 로그인</h2>
+<details>
+ 
 ## ⚡회원가입
 <img width="600" alt="회원가입" src="https://github.com/leedong617/leedong617/assets/133841274/112d86be-a931-40a2-ac37-bb66a503cb97">
 
