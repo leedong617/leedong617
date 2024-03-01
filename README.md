@@ -154,25 +154,25 @@ OrderMapper(For MyBatis)<br>
 <img width="671" alt="스크린샷 2023-12-14 011833" src="https://github.com/leedong617/leedong617/assets/133841274/72517656-e00e-449d-9fb5-3a142f06a99a"><br>
 <h2>1️⃣ 회원가입 , 수정 , 찾기 , 탈퇴 , 로그인</h2>
 
-⚡회원가입
-![회원가입](https://github.com/leedong617/leedong617/assets/133841274/112d86be-a931-40a2-ac37-bb66a503cb97)
-⚡ID / PW 찾기
+## ⚡회원가입
+<img width="600" alt="회원가입" src="https://github.com/leedong617/leedong617/assets/133841274/112d86be-a931-40a2-ac37-bb66a503cb97">
+## ⚡ID / PW 찾기
 ![찾기](https://github.com/leedong617/leedong617/assets/133841274/187b5745-801f-48d6-8d15-66f76fad0ace)
-⚡내 정보 수정
+## ⚡내 정보 수정
 ![수정](https://github.com/leedong617/leedong617/assets/133841274/445c48e5-a936-4192-b68d-a08993959701)
-⚡회원탈퇴
+## ⚡회원탈퇴
 ![탈퇴](https://github.com/leedong617/leedong617/assets/133841274/280cfa79-fe0d-461e-a795-d0c868ab9605)
 
 <h2>2️⃣ 이메일 인증 </h2>
 
 ![이메일](https://github.com/leedong617/leedong617/assets/133841274/cc740f62-b1bd-4990-96da-a8a6bedce504)
-<h3>JavaMailSender API와 Google SMTP를 활용하여 이메일 인증 서비스를 구현하였습니다.</h3>
+<h3>⚡JavaMailSender API와 Google SMTP를 활용하여 이메일 인증 서비스를 구현하였습니다.</h3>
 
 <h2>3️⃣ 카카오 로그인 </h2>
 
 ![카카오](https://github.com/leedong617/leedong617/assets/133841274/e2671b4d-0a14-407a-ad1a-b55878847ed5)
 <img width="628" alt="카카오 로그인2024-02-29 012852" src="https://github.com/leedong617/leedong617/assets/133841274/1d98a7e6-2216-493d-a5c4-2f6c7fabfa3f">
-<h3>❗KakaoController와 KakaoService, KakaoProfile을 만들어
+<h3>⚡KakaoController와 KakaoService, KakaoProfile을 만들어
 Kakao에서 보낸 code로 인증 토큰을 생성하고 생성된 토큰을 사용하여 KakaoProfile을 가져옵니다.
 KakaoProfile에서 가져온 이메일이 DB에 존재한다면 해당 이메일을 가진 회원으로 로그인이 진행되며 
 존재하지 않는다면 MemberNotFoundException 발생하여 KakaoProfile을 사용하여 회원가입이 진행됩니다.
