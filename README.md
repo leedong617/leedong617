@@ -107,6 +107,115 @@ OrderMapper(For MyBatis)<br>
 <img width="836" alt="주문 목록" src="https://github.com/leedong617/leedong617/assets/133841274/22f32f46-375c-434a-a693-d42fdbbe9caa"><br>
 </details>
 
+
+<img width="150" alt="photo" src="https://github.com/leedong617/leedong617/assets/133841274/b2c86a2f-589e-4b49-9c1f-675fcc30d738"><br> <div><h3>안녕하세요 <strong>이동현</strong> 입니다.</h3></div> Java/SpringBoot 를 사용하여 백엔드를 중점으로 공부를 하고 있습니다<br> 알맞은 기술을 현명하게 사용하고 협업 능력과 문제해결 능력을 키워 인정받는 좋은 개발자로 성장하는 것이 목표입니다.
+
+📧Email : leedong617@gmail.com<br>
+ 🧍‍♂️  Age&nbsp; : 27 (1998)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlehdgus617)](https://solved.ac/dlehdgus617/)
+## 🛠️ Stack
+<pre>
+Programing Languages |  JAVA, JavaScript <br>
+Framework / Library  |	Spring Boot, JQuery, MyBatis ,Thymeleaf <br>
+Server               |	Apache Tomcat <br>
+Tooling / DevOps     |	GitHub Actions, Docker <br>
+Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
+</pre>
+
+<br>
+<br>
+
+## 🏫 Education
+
+[* ITWILL JAVA 개발자 양성 과정 (23.05 ~ 23.11)](https://www.itwill.co.kr/cmn/eduCrseMain/1000000/all/CRSE_00000000000623eduCrseMainDetail.do)
+
+## 🖥️ Projects
+
+## 01.First_Project (JAVA SWING, JDBC, Oracle) (교양문고)
+<details>
+  
+### 프로젝트 소개
+나날이 늘어가는 문화활동에 대한 수요에 맞추어 Java Swing으로 교양문고 어플리케이션을 출시하였습니다.<br>
+회원, 상품, 장바구니, 주문 파트별로 JDBC를 이용한 CRUD를 구현하였습니다.
+
+### 개발 기간
+12일 (2023.07.14 ~ 2023.07.25)
+
+### 담당 파트
+| Product |
+|----------|
+| 카테고리별 상품리스트</br> 검색기능</br> 상품 상세탭 |
+
+### 개발 환경 및 기술 스택
+<img src="https://img.shields.io/badge/java 1.8-2C2255?style=for-the-badge&logo=openJDK&logoColor=white"> 
+<img src="https://img.shields.io/badge/jdbc-000000?style=for-the-badge&logo=amazondocumentdb&logoColor=white"> 
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/swing-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white">
+<img src="https://img.shields.io/badge/eclipse se-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+### 상세
+<https://github.com/leedong617/First-Project/> github주소<br>
+[교양문고.pptx](https://github.com/leedong617/leedong617/files/13663001/default.pptx) ppt상세
+<br>
+<br>
+메인<br>
+<img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5"><br>
+상품리스트<br>
+<img width="278" alt="리스트" src="https://github.com/leedong617/leedong617/assets/133841274/49583be5-45fb-42a0-8138-9f75c2a4d2ad"><br>
+상품상세<br>
+<img width="275" alt="디테일" src="https://github.com/leedong617/leedong617/assets/133841274/cb11b4c7-cf04-4697-9ced-ebb477dcffd3"><br>
+검색리스트<br>
+<img width="360" alt="검색" src="https://github.com/leedong617/leedong617/assets/133841274/c6cb7564-a4d0-4b75-9a93-c099dbffc580"><br>
+ERD<br>
+<img width="485" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/a5798bfe-9967-496d-bd7c-c43dd744577b"><br>
+</details>
+
+## 02.Second_Project (JAVA, JSP, MyBatis, Oracle) (마이프로틴)
+<details>
+
+### 프로젝트 소개
+헬스의 인기가 증가함에 따라 헬스 용품들의 수요가 증가하는 요즘을 위한 헬스용품 판매 사이트를 제작하였습니다.
+
+### 개발 기간
+8일 (2023.08.18 ~ 2023.08.25)
+
+### 담당 파트
+| Cart,Order |
+|----------|
+| 바로구매 와 장바구니 버튼</br> 장바구니 리스트</br> 주문</br> 주문리스트 |
+
+### 개발 환경 및 기술 스택
+<img src="https://img.shields.io/badge/java 1.8-2C2255?style=for-the-badge&logo=openJDK&logoColor=white"> 
+<img src="https://img.shields.io/badge/JSP-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> 
+<img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logo=amazondocumentdb&logoColor=white"> 
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/eclipse ee-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> 
+<img src="https://img.shields.io/badge/gradle 8.3-02303A?style=for-the-badge&logo=gradle&logoColor=white"소<br>
+
+### 상세
+[헬린이들.pptx](https://github.com/leedong617/leedong617/files/13663009/default.pptx) ppt상세<br>
+<https://github.com/leedong617/Second-Project/> github주소<br>
+<br>
+ERD<br>
+<img width="1000" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/d3de73cf-4cf3-444f-b3fe-6265fed916c0"><br>
+CartMapper(For MyBatis)<br>
+<img width="1000" alt="cartmapper" src="https://github.com/leedong617/leedong617/assets/133841274/62123bbd-d9dd-4a13-8efa-d43516249dea">
+OrderMapper(For MyBatis)<br>
+<img width="1000" alt="ordermapper" src="https://github.com/leedong617/leedong617/assets/133841274/d75d16ec-eea4-417b-be8a-d57592a1c212">
+상품<br>
+<img width="836" alt="장바구니 버튼" src="https://github.com/leedong617/leedong617/assets/133841274/0cb402d8-bf63-4222-8351-6c38bba00b59"><br>
+장바구니<br>
+<img width="836" alt="장바구니" src="https://github.com/leedong617/leedong617/assets/133841274/34442842-2816-4cbe-b93e-2766338a27b1"><br>
+주문<br>
+<img width="836" alt="주문" src="https://github.com/leedong617/leedong617/assets/133841274/031b23ec-f65d-471b-8175-0c350a6d95c8"><br>
+주문목록<br>
+<img width="836" alt="주문 목록" src="https://github.com/leedong617/leedong617/assets/133841274/22f32f46-375c-434a-a693-d42fdbbe9caa"><br>
+</details>
+
 ## 03.Final_Project (JAVA / Spring Boot, JPA) (다나가)
   
 ## ⭐프로젝트 소개
@@ -206,3 +315,4 @@ KakaoProfile에서 가져온 이메일이 DB에 존재한다면 해당 이메일
 해결 방법 : 회원탈퇴 서비스에서 탈퇴하려는 회원의 아이디를 참조하고 있는 주문들의 회원 아이디들을 null로 수정하는 코드를 추가해 회원을 삭제한다.<br>
 
 </details>
+
