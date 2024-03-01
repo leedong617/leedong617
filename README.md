@@ -257,8 +257,9 @@ OrderMapper(For MyBatis)<br>
 <img width="950" alt="아키텍처" src="https://github.com/leedong617/leedong617/assets/133841274/bdf3b1d2-01b3-45fd-bc61-9b184feb0271">
 
 <h2>⭐ERD</h2>
+<details>
 <img width="1091" alt="ERD" src="https://github.com/leedong617/leedong617/assets/133841274/355a601b-7b3e-41ab-9fa1-a0571267f4cb">
-
+</details>
 <h2>⭐구현 기능</h2>
 <img width="671" alt="스크린샷 2023-12-14 011833" src="https://github.com/leedong617/leedong617/assets/133841274/72517656-e00e-449d-9fb5-3a142f06a99a"><br>
 
