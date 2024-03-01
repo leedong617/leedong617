@@ -165,7 +165,7 @@ KakaoProfile에서 가져온 이메일이 DB에 존재한다면 해당 이메일
 존재하지 않는다면 MemberNotFoundException 발생하여 KakaoProfile을 사용하여 회원가입이 진행됩니다.
 </h3>
 
-<h2>3️4️⃣ CI / CD 환경 구축 </h2>
+<h2>4️⃣ CI / CD 환경 구축 </h2>
 
 Github-actions workflow를 
 
