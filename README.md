@@ -152,6 +152,7 @@ OrderMapper(For MyBatis)<br>
 
 <h2>⭐구현 기능</h2>
 <img width="671" alt="스크린샷 2023-12-14 011833" src="https://github.com/leedong617/leedong617/assets/133841274/72517656-e00e-449d-9fb5-3a142f06a99a"><br>
+<details>
 <h2>1️⃣ 회원가입 , 수정 , 찾기 , 탈퇴 , 로그인</h2>
 
 ## ⚡회원가입
@@ -165,14 +166,15 @@ OrderMapper(For MyBatis)<br>
 
 ## ⚡회원탈퇴
 <img width="600" alt="회원탈퇴" src="https://github.com/leedong617/leedong617/assets/133841274/280cfa79-fe0d-461e-a795-d0c868ab9605">
+</details>
 
 <h2>2️⃣ 이메일 인증 </h2>
-
+<details>
 <img width="600" alt="이메일" src="https://github.com/leedong617/leedong617/assets/133841274/cc740f62-b1bd-4990-96da-a8a6bedce504">
 <h3>⚡JavaMailSender API와 Google SMTP를 활용하여 이메일 인증 서비스를 구현하였습니다.</h3>
-
+</details>
 <h2>3️⃣ 카카오 로그인 </h2>
-
+<details>
 <img width="600" alt="카카오" src="https://github.com/leedong617/leedong617/assets/133841274/e2671b4d-0a14-407a-ad1a-b55878847ed5">
 <img width="628" alt="카카오 로그인2024-02-29 012852" src="https://github.com/leedong617/leedong617/assets/133841274/1d98a7e6-2216-493d-a5c4-2f6c7fabfa3f">
 <h3>⚡KakaoController와 KakaoService, KakaoProfile을 만들어
@@ -180,13 +182,13 @@ Kakao에서 보낸 code로 인증 토큰을 생성하고 생성된 토큰을 사
 KakaoProfile에서 가져온 이메일이 DB에 존재한다면 해당 이메일을 가진 회원으로 로그인이 진행되며 
 존재하지 않는다면 MemberNotFoundException 발생하여 KakaoProfile을 사용하여 회원가입이 진행됩니다.
 </h3>
-
+</details>
 <h2>4️⃣ CI / CD 환경 구축 </h2>
-
+<details>
 ![cicd1-1-ezgif com-video-to-gif-converter](https://github.com/leedong617/leedong617/assets/133841274/17e126e3-06ea-4d22-9eae-a4269d870198)
 ![cicd1-3-ezgif com-video-to-gif-converter](https://github.com/leedong617/leedong617/assets/133841274/5564a7a2-165f-4e52-b1c5-e3ec5abc2f50)
 <h3>⚡ 해당 프로젝트를 push하면 github-actions wokrflow를 통해 gradle로 jar 파일을 build하고 해당 jar파일로 docker image를 만들어 docker hub에 push한 뒤 해당 웹 프로젝트를 docker를 통해 배포중인 ec2서버에서 docker image를 pull하고 실행 중 이던 docker container를 중지시키고 pull한 docker image로 다시 docker container를 실행시켜 자동 배포하는 CI / CD 환경을 구축하였습니다.</h3>
-
+</details>
 ## ⭐트러블슈팅
 <details>
  
