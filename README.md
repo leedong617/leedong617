@@ -180,6 +180,8 @@ KakaoProfile에서 가져온 이메일이 DB에 존재한다면 해당 이메일
 
 <h2>4️⃣ CI / CD 환경 구축 </h2>
 
+![cicd1-1-ezgif com-video-to-gif-converter](https://github.com/leedong617/leedong617/assets/133841274/17e126e3-06ea-4d22-9eae-a4269d870198)
+![cicd1-3-ezgif com-video-to-gif-converter](https://github.com/leedong617/leedong617/assets/133841274/5564a7a2-165f-4e52-b1c5-e3ec5abc2f50)
 <h3>⚡ 해당 프로젝트를 push하면 github-actions wokrflow를 통해 gradle로 jar 파일을 build하고 해당 jar파일로 docker image를 만들어 docker hub에 push한 뒤 해당 웹 프로젝트를 docker를 통해 배포중인 ec2서버에서 docker image를 pull하고 실행 중 이던 docker container를 중지시키고 pull한 docker image로 다시 docker container를 실행시켜 자동 배포하는 CI / CD 환경을 구축하였습니다.</h3>
 
 ## ⭐트러블슈팅
