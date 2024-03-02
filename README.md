@@ -32,6 +32,9 @@ Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 ### ⭐개발 기간
 12일 (2023.07.14 ~ 2023.07.25)
 
+### ⭐개발 인원
+총 6명
+
 ### ⭐담당 파트
 | Product |
 |----------|
@@ -71,6 +74,9 @@ Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 
 ### ⭐개발 기간
 8일 (2023.08.18 ~ 2023.08.25)
+
+### ⭐개발 인원
+총 6명
 
 ### ⭐담당 파트
 | Cart,Order |
