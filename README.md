@@ -96,7 +96,7 @@ CartMapper(For MyBatis) | OrderMapper(For MyBatis) | CartMapperXml(For MyBatis) 
 | :------: |  :------: | :------: |
 |  |  |  |
 
-| 상품 |  장바구니 | 주문 | 주문목록 |
+| 상품 |  장바구니 | 주문 | 주문목록 
 | <img width="836" alt="장바구니 버튼" src="https://github.com/leedong617/leedong617/assets/133841274/0cb402d8-bf63-4222-8351-6c38bba00b59"> |  <img width="836" alt="장바구니" src="https://github.com/leedong617/leedong617/assets/133841274/34442842-2816-4cbe-b93e-2766338a27b1"> | <img width="836" alt="주문" src="https://github.com/leedong617/leedong617/assets/133841274/031b23ec-f65d-471b-8175-0c350a6d95c8"> | <img width="836" alt="주문 목록" src="https://github.com/leedong617/leedong617/assets/133841274/22f32f46-375c-434a-a693-d42fdbbe9caa"> |
 
 </details>
