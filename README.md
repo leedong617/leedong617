@@ -25,19 +25,19 @@ Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 ## 01.First_Project (JAVA SWING, JDBC, Oracle) (교양문고)
 <details>
   
-### 프로젝트 소개
+### ⭐프로젝트 소개
 나날이 늘어가는 문화활동에 대한 수요에 맞추어 Java Swing으로 교양문고 어플리케이션을 출시하였습니다.<br>
 회원, 상품, 장바구니, 주문 파트별로 JDBC를 이용한 CRUD를 구현하였습니다.
 
-### 개발 기간
+### ⭐개발 기간
 12일 (2023.07.14 ~ 2023.07.25)
 
-### 담당 파트
+### ⭐담당 파트
 | Product |
 |----------|
 | 카테고리별 상품리스트</br> 검색기능</br> 상품 상세탭 |
 
-### 개발 환경 및 기술 스택
+### 🛠️개발 환경 및 기술 스택
 <img src="https://img.shields.io/badge/java 1.8-2C2255?style=for-the-badge&logo=openJDK&logoColor=white"> 
 <img src="https://img.shields.io/badge/jdbc-000000?style=for-the-badge&logo=amazondocumentdb&logoColor=white"> 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -66,18 +66,18 @@ Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 ## 02.Second_Project (JAVA, JSP, MyBatis, Oracle) (마이프로틴)
 <details>
 
-### 프로젝트 소개
+### ⭐프로젝트 소개
 헬스의 인기가 증가함에 따라 헬스 용품들의 수요가 증가하는 요즘을 위한 헬스용품 판매 사이트를 제작하였습니다.
 
-### 개발 기간
+### ⭐개발 기간
 8일 (2023.08.18 ~ 2023.08.25)
 
-### 담당 파트
+### ⭐담당 파트
 | Cart,Order |
 |----------|
 | 바로구매 와 장바구니 버튼</br> 장바구니 리스트</br> 주문</br> 주문리스트 |
 
-### 개발 환경 및 기술 스택
+### 🛠️개발 환경 및 기술 스택
 <img src="https://img.shields.io/badge/java 1.8-2C2255?style=for-the-badge&logo=openJDK&logoColor=white"> 
 <img src="https://img.shields.io/badge/JSP-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> 
 <img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logo=amazondocumentdb&logoColor=white"> 
@@ -92,7 +92,7 @@ Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 [헬린이들.pptx](https://github.com/leedong617/leedong617/files/13663009/default.pptx) ppt상세<br>
 <https://github.com/leedong617/Second-Project/> github주소<br>
 <br>
-⭐ ERD<br>
+### ⭐ ERD<br>
 <img width="800" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/d3de73cf-4cf3-444f-b3fe-6265fed916c0"><br>
 
 CartMapper(For MyBatis) | OrderMapper(For MyBatis) |
