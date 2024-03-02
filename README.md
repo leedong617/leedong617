@@ -45,21 +45,21 @@ Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 <img src="https://img.shields.io/badge/eclipse se-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-### 상세
+### ⭐상세
 <https://github.com/leedong617/First-Project/> github주소<br>
 [교양문고.pptx](https://github.com/leedong617/leedong617/files/13663001/default.pptx) ppt상세
 <br>
 <br>
 ### ⭐ ERD<br>
-<img width="485" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/a5798bfe-9967-496d-bd7c-c43dd744577b"><br>
+<img width="450" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/a5798bfe-9967-496d-bd7c-c43dd744577b"><br>
 ### ⭐ UI
 | 메인 | 상품리스트 |
 | :------: |  :------: |
-| <img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5"> | <img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5"> |
+| <img width="300" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5"> | <img width="300" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5"> |
 
 | 상품상세 | 검색리스트 |
 | :------: | :------: |
-| <img width="275" alt="디테일" src="https://github.com/leedong617/leedong617/assets/133841274/cb11b4c7-cf04-4697-9ced-ebb477dcffd3"> | <img width="360" alt="검색" src="https://github.com/leedong617/leedong617/assets/133841274/c6cb7564-a4d0-4b75-9a93-c099dbffc580"> |
+| <img width="300" alt="디테일" src="https://github.com/leedong617/leedong617/assets/133841274/cb11b4c7-cf04-4697-9ced-ebb477dcffd3"> | <img width="300" alt="검색" src="https://github.com/leedong617/leedong617/assets/133841274/c6cb7564-a4d0-4b75-9a93-c099dbffc580"> |
 
 </details>
 
@@ -88,7 +88,7 @@ Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 <img src="https://img.shields.io/badge/eclipse ee-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> 
 <img src="https://img.shields.io/badge/gradle 8.3-02303A?style=for-the-badge&logo=gradle&logoColor=white"소<br>
 
-### 상세
+### ⭐상세
 [헬린이들.pptx](https://github.com/leedong617/leedong617/files/13663009/default.pptx) ppt상세<br>
 <https://github.com/leedong617/Second-Project/> github주소<br>
 <br>
