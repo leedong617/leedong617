@@ -38,7 +38,7 @@ Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 ### ⭐담당 파트
 | Product |
 |----------|
-| 카테고리별 상품리스트</br> 검색기능</br> 상품 상세탭 |
+| 카테고리별 상품리스트</br> 검색서비스</br> 상품 상세탭 |
 
 ### 🛠️개발 환경 및 기술 스택
 <img src="https://img.shields.io/badge/java 1.8-2C2255?style=for-the-badge&logo=openJDK&logoColor=white"> 
@@ -81,7 +81,7 @@ Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 ### ⭐담당 파트
 | Cart,Order |
 |----------|
-| 바로구매 와 장바구니 버튼</br> 장바구니 리스트</br> 주문</br> 주문리스트 |
+| 장바구니 서비스</br> 장바구니 리스트</br> 주문 서비스</br> 주문리스트 |
 
 ### 🛠️개발 환경 및 기술 스택
 <img src="https://img.shields.io/badge/java 1.8-2C2255?style=for-the-badge&logo=openJDK&logoColor=white"> 
