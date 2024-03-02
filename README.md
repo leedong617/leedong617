@@ -53,10 +53,13 @@ Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 ### ⭐ ERD<br>
 <img width="485" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/a5798bfe-9967-496d-bd7c-c43dd744577b"><br>
 ### ⭐ UI
-| 메인 | 상품리스트 | 상품상세 | 검색리스트 |
-| :------: |  :------: | :------: | :------: |
-| <img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5"> | <img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5"> | <img width="275" alt="디테일" src="https://github.com/leedong617/leedong617/assets/133841274/cb11b4c7-cf04-4697-9ced-ebb477dcffd3"> | <img width="360" alt="검색" src="https://github.com/leedong617/leedong617/assets/133841274/c6cb7564-a4d0-4b75-9a93-c099dbffc580"> |
+| 메인 | 상품리스트 |
+| :------: |  :------: |
+| <img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5"> | <img width="271" alt="메인" src="https://github.com/leedong617/leedong617/assets/133841274/fcba9c21-d5db-442f-804e-b4f703a6adf5"> |
 
+| 상품상세 | 검색리스트 |
+| :------: | :------: |
+| <img width="275" alt="디테일" src="https://github.com/leedong617/leedong617/assets/133841274/cb11b4c7-cf04-4697-9ced-ebb477dcffd3"> | <img width="360" alt="검색" src="https://github.com/leedong617/leedong617/assets/133841274/c6cb7564-a4d0-4b75-9a93-c099dbffc580"> |
 
 </details>
 
@@ -92,13 +95,21 @@ Environment          |	AWS (EC2, RDS), Oracle, MySQL <br>
 ⭐ ERD<br>
 <img width="1000" alt="erd" src="https://github.com/leedong617/leedong617/assets/133841274/d3de73cf-4cf3-444f-b3fe-6265fed916c0"><br>
 
-CartMapper(For MyBatis) | OrderMapper(For MyBatis) | CartMapperXml(For MyBatis) |
-| :------: |  :------: | :------: |
-|  |  |  |
+CartMapper(For MyBatis) | OrderMapper(For MyBatis) |
+| :------: |  :------: |
+|  |  |
 
-| 상품 |  장바구니 | 주문 | 주문목록 |
-| :------: |  :------: | :------: | :------: |
-| <img width="836" alt="장바구니 버튼" src="https://github.com/leedong617/leedong617/assets/133841274/0cb402d8-bf63-4222-8351-6c38bba00b59"> |  <img width="836" alt="장바구니" src="https://github.com/leedong617/leedong617/assets/133841274/34442842-2816-4cbe-b93e-2766338a27b1"> | <img width="836" alt="주문" src="https://github.com/leedong617/leedong617/assets/133841274/031b23ec-f65d-471b-8175-0c350a6d95c8"> | <img width="836" alt="주문 목록" src="https://github.com/leedong617/leedong617/assets/133841274/22f32f46-375c-434a-a693-d42fdbbe9caa"> |
+| CartMapperXml(For MyBatis) |
+| :------: |
+|  |
+
+| 상품 |  장바구니 |
+| :------: |  :------: |
+| <img width="836" alt="장바구니 버튼" src="https://github.com/leedong617/leedong617/assets/133841274/0cb402d8-bf63-4222-8351-6c38bba00b59"> |  <img width="836" alt="장바구니" src="https://github.com/leedong617/leedong617/assets/133841274/34442842-2816-4cbe-b93e-2766338a27b1"> |
+
+| 주문 | 주문목록 |
+| :------: | :------: |
+| <img width="836" alt="주문" src="https://github.com/leedong617/leedong617/assets/133841274/031b23ec-f65d-471b-8175-0c350a6d95c8"> | <img width="836" alt="주문 목록" src="https://github.com/leedong617/leedong617/assets/133841274/22f32f46-375c-434a-a693-d42fdbbe9caa"> |
 
 </details>
 
